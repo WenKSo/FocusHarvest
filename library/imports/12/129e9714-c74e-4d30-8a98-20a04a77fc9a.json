@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_expand",
+    "texture": "ba92c374-9f2e-408d-bce1-df83a88aa5ca",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      98,
+      30
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      98,
+      30
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

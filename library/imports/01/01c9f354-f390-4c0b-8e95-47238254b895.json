@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_salamander",
+    "texture": "026453df-ae8a-49aa-88f9-4efa42416e10",
+    "atlas": "",
+    "rect": [
+      24,
+      32,
+      107,
+      101
+    ],
+    "offset": [
+      2.5,
+      -7.5
+    ],
+    "originalSize": [
+      150,
+      150
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

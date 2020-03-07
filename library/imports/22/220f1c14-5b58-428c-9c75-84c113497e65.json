@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "timer_slot",
+    "texture": "8241bc51-cd62-498f-89fb-9aa26c3ec321",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      225,
+      13
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      225,
+      13
+    ],
+    "capInsets": [
+      14,
+      0,
+      12,
+      0
+    ]
+  }
+}

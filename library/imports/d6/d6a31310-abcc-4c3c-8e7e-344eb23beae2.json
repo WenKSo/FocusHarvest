@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_长矛兵蓝色",
+    "texture": "8defb5ec-4894-4a50-a9d8-eb33f64034a7",
+    "atlas": "",
+    "rect": [
+      29,
+      12,
+      89,
+      114
+    ],
+    "offset": [
+      -1.5,
+      6
+    ],
+    "originalSize": [
+      150,
+      150
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "rare3",
+    "texture": "73c887a9-622b-4706-855c-864dc6c064f5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      100,
+      126
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      100,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

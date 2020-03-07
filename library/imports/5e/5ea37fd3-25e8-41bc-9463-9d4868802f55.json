@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_spharaoh",
+    "texture": "0d338f67-b5b2-43c3-8939-a75780d99089",
+    "atlas": "",
+    "rect": [
+      30,
+      31,
+      96,
+      93
+    ],
+    "offset": [
+      3,
+      -2.5
+    ],
+    "originalSize": [
+      150,
+      150
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_hydra",
+    "texture": "fa3223bf-3ecb-41be-af59-c323ed763ce4",
+    "atlas": "",
+    "rect": [
+      14,
+      0,
+      125,
+      132
+    ],
+    "offset": [
+      1.5,
+      9
+    ],
+    "originalSize": [
+      150,
+      150
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

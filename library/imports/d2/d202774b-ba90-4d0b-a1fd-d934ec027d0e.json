@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_阿努比斯蓝色",
+    "texture": "f88426b3-5e76-4865-90b7-1904d58cc3b4",
+    "atlas": "",
+    "rect": [
+      29,
+      42,
+      98,
+      86
+    ],
+    "offset": [
+      3,
+      -10
+    ],
+    "originalSize": [
+      150,
+      150
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

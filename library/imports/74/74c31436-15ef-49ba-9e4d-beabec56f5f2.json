@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chighost_red",
+    "texture": "a477fa45-eda8-4a78-b2dc-ac334c040d5d",
+    "atlas": "",
+    "rect": [
+      32,
+      22,
+      99,
+      110
+    ],
+    "offset": [
+      6.5,
+      -2
+    ],
+    "originalSize": [
+      150,
+      150
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

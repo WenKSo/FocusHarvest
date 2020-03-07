@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_evolve",
+    "texture": "14222783-36bf-4b44-9fe0-2f65d3e20067",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      75,
+      48
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      75,
+      48
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

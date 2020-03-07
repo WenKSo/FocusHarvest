@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "title_craft",
+    "texture": "1b5f90e0-8944-4809-9761-78b8d8372616",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      130,
+      48
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      130,
+      48
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

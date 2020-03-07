@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_diamond_gift",
+    "texture": "116b799f-09ea-47ad-964a-013f0b472788",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      117,
+      28
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      117,
+      28
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

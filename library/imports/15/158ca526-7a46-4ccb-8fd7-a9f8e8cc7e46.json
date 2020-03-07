@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_jones",
+    "texture": "276c533f-f19e-41f9-9bfd-d98c7ba8e21f",
+    "atlas": "",
+    "rect": [
+      26,
+      31,
+      103,
+      92
+    ],
+    "offset": [
+      2.5,
+      -2
+    ],
+    "originalSize": [
+      150,
+      150
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

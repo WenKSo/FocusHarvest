@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_green_diamond",
+    "texture": "c6691cf2-4900-43e7-9c69-a52525117d8a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      182,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      182,
+      60
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

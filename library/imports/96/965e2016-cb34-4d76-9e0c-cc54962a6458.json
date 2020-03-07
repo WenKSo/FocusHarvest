@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_message",
+    "texture": "e95c52db-f62e-4ecb-8fd7-5a50e4d9895a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      75,
+      67
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      75,
+      67
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

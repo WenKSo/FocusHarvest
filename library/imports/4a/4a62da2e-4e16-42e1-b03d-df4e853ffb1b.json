@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "txt_liuyan",
+    "texture": "f4f34005-226d-41fd-8f6c-9fcb3734f53d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      56,
+      35
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      56,
+      35
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

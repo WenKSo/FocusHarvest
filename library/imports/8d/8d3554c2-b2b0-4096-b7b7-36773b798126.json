@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "indiwarrior_green",
+    "texture": "e72f4cec-599d-4091-86b4-028fb8c3c026",
+    "atlas": "",
+    "rect": [
+      34,
+      31,
+      95,
+      91
+    ],
+    "offset": [
+      6.5,
+      -1.5
+    ],
+    "originalSize": [
+      150,
+      150
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

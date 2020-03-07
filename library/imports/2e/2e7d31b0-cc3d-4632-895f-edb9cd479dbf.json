@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "indiwarrior_brown",
+    "texture": "f237c7db-0f6a-48fb-b60f-e6497a0de4e9",
+    "atlas": "",
+    "rect": [
+      34,
+      31,
+      95,
+      91
+    ],
+    "offset": [
+      6.5,
+      -1.5
+    ],
+    "originalSize": [
+      150,
+      150
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

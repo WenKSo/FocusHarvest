@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_棕色巨型蜘蛛",
+    "texture": "10e5b9bb-8f58-467d-9e43-f99403e88f3b",
+    "atlas": "",
+    "rect": [
+      43,
+      45,
+      66,
+      71
+    ],
+    "offset": [
+      1,
+      -5.5
+    ],
+    "originalSize": [
+      150,
+      150
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "txt_rongyu",
+    "texture": "f1c132d7-af62-423a-ae57-d0b889d98159",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      58,
+      35
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      58,
+      35
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

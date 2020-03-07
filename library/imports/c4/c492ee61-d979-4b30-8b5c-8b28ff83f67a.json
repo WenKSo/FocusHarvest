@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_棺材变色",
+    "texture": "7de2b94e-ee52-4f81-a163-1adb9181d064",
+    "atlas": "",
+    "rect": [
+      37,
+      30,
+      81,
+      89
+    ],
+    "offset": [
+      2.5,
+      0.5
+    ],
+    "originalSize": [
+      150,
+      150
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_bloodwind",
+    "texture": "97ab5c2b-0b55-4bd9-8e72-4785f7f145ea",
+    "atlas": "",
+    "rect": [
+      35,
+      26,
+      85,
+      103
+    ],
+    "offset": [
+      2.5,
+      -2.5
+    ],
+    "originalSize": [
+      150,
+      150
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

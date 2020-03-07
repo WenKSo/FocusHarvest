@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_rongyu",
+    "texture": "27721328-ed2d-416b-9a66-345012cff4cb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      83,
+      65
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      83,
+      65
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

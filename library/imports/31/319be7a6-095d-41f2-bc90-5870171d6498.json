@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btns_hero",
+    "texture": "df9586cb-c875-421a-9323-3af3bc892966",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      186,
+      48
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      186,
+      48
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

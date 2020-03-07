@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_fold",
+    "texture": "b245a56a-a90e-4a1d-a23a-0356b7345dcf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      98,
+      30
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      98,
+      30
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

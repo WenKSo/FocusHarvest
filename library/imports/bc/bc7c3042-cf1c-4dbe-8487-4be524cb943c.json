@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_snrom",
+    "texture": "893f6783-50a1-46d7-a74d-dafc7e24f27c",
+    "atlas": "",
+    "rect": [
+      21,
+      20,
+      113,
+      109
+    ],
+    "offset": [
+      2.5,
+      0.5
+    ],
+    "originalSize": [
+      150,
+      150
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

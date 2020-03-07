@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_棕色大螃蟹2",
+    "texture": "93f6516f-772d-493f-a720-9e7a65885af5",
+    "atlas": "",
+    "rect": [
+      15,
+      33,
+      116,
+      95
+    ],
+    "offset": [
+      -2,
+      -5.5
+    ],
+    "originalSize": [
+      150,
+      150
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

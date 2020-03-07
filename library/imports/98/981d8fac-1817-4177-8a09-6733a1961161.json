@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_黑色大螃蟹",
+    "texture": "7325fb21-b227-4d4a-a27d-cf065689799b",
+    "atlas": "",
+    "rect": [
+      24,
+      35,
+      107,
+      89
+    ],
+    "offset": [
+      2.5,
+      -4.5
+    ],
+    "originalSize": [
+      150,
+      150
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

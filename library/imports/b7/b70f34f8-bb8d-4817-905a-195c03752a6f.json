@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_tizerc",
+    "texture": "919187fd-50a0-4002-ad12-40f4a46d4174",
+    "atlas": "",
+    "rect": [
+      16,
+      18,
+      109,
+      114
+    ],
+    "offset": [
+      -4.5,
+      0
+    ],
+    "originalSize": [
+      150,
+      150
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

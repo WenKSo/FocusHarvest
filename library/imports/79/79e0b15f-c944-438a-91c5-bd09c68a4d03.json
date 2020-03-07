@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "banner_gradient",
+    "texture": "441a6473-a030-480e-b100-2f57c7d90e54",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      181,
+      33
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      181,
+      33
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

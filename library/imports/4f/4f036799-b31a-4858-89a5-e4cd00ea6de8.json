@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sumpitaner_green",
+    "texture": "5d98d06f-5244-4c28-957b-cb39a7a66662",
+    "atlas": "",
+    "rect": [
+      33,
+      40,
+      89,
+      81
+    ],
+    "offset": [
+      2.5,
+      -5.5
+    ],
+    "originalSize": [
+      150,
+      150
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

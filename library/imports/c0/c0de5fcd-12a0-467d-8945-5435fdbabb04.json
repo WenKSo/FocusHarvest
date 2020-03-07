@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "murloc_green",
+    "texture": "7ad4dfcb-f12d-42d8-b5df-726727ab9eda",
+    "atlas": "",
+    "rect": [
+      18,
+      27,
+      111,
+      105
+    ],
+    "offset": [
+      -1.5,
+      -4.5
+    ],
+    "originalSize": [
+      150,
+      150
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,83 +1,74 @@
-2020-02-29T02:46:48.437Z - normal: Load ~/.CocosCreator/settings.json
-2020-02-29T02:46:48.504Z - normal: Initializing Asset Database
-2020-02-29T02:46:48.507Z - normal: checking language setting...
-2020-02-29T02:46:48.507Z - normal: Language: en
-2020-02-29T02:46:49.416Z - success: preview server running at http://localhost:7456
-2020-02-29T02:46:49.423Z - success: protocol editor-framework registered
-2020-02-29T02:46:49.423Z - success: protocol app registered
-2020-02-29T02:46:49.423Z - success: protocol theme registered
-2020-02-29T02:46:49.423Z - success: protocol packages registered
-2020-02-29T02:46:49.423Z - success: protocol uuid registerred
-2020-02-29T02:46:49.424Z - success: protocol db registerred
-2020-02-29T02:46:49.424Z - success: protocol thumbnail registerred
-2020-02-29T02:46:49.424Z - success: protocol unpack registerred
-2020-02-29T02:46:49.424Z - success: protocol disable-commonjs registerred
-2020-02-29T02:46:52.006Z - normal: connected!
-2020-02-29T02:46:52.007Z - normal: Check project C:\Users\luopp\Documents\CODINGproject\CocosProject\FocusHarvest
-2020-02-29T02:46:52.009Z - normal: Initializing project C:\Users\luopp\Documents\CODINGproject\CocosProject\FocusHarvest
-2020-02-29T02:46:52.022Z - success: adapters loaded
-2020-02-29T02:46:52.025Z - success: asset-db-debugger loaded
-2020-02-29T02:46:52.090Z - success: fb-audience-network loaded
-2020-02-29T02:46:52.118Z - success: fb-live-stream loaded
-2020-02-29T02:46:52.120Z - success: google-play-instant loaded
-2020-02-29T02:46:52.120Z - success: huawei-adapter loaded
-2020-02-29T02:46:52.121Z - success: jkw-adapter loaded
-2020-02-29T02:46:52.121Z - success: jsb-adapter loaded
-2020-02-29T02:46:52.122Z - success: oppo-adapter loaded
-2020-02-29T02:46:52.124Z - success: package-manager loaded
-2020-02-29T02:46:52.125Z - success: qtt-adapter loaded
-2020-02-29T02:46:52.127Z - success: runtime-dev-tools loaded
-2020-02-29T02:46:52.132Z - success: sdkbox loaded
-2020-02-29T02:46:52.134Z - success: ui-kit-preview-extra loaded
-2020-02-29T02:46:52.136Z - success: ui-kit-preview loaded
-2020-02-29T02:46:52.136Z - success: vivo-adapter loaded
-2020-02-29T02:46:52.185Z - success: alipay-minigame loaded
-2020-02-29T02:46:52.251Z - success: assets loaded
-2020-02-29T02:46:52.253Z - success: baidugame-opendata loaded
-2020-02-29T02:46:52.255Z - success: baidugame loaded
-2020-02-29T02:46:52.257Z - success: builder loaded
-2020-02-29T02:46:52.398Z - success: cocos-services loaded
-2020-02-29T02:46:52.400Z - success: console loaded
-2020-02-29T02:46:52.402Z - success: curve-editor loaded
-2020-02-29T02:46:52.414Z - success: fb-instant-games loaded
-2020-02-29T02:46:52.415Z - success: game-window loaded
-2020-02-29T02:46:52.416Z - success: google-instant-games loaded
-2020-02-29T02:46:52.418Z - success: hierarchy loaded
-2020-02-29T02:46:52.421Z - success: huawei-runtime loaded
-2020-02-29T02:46:52.423Z - success: inspector loaded
-2020-02-29T02:46:52.490Z - success: cpk-publish loaded
-2020-02-29T02:46:52.491Z - success: keystore loaded
-2020-02-29T02:46:52.494Z - success: node-library loaded
-2020-02-29T02:46:52.495Z - success: open-recent-items loaded
-2020-02-29T02:46:52.497Z - success: oppo-runtime loaded
-2020-02-29T02:46:52.498Z - success: package-asset loaded
-2020-02-29T02:46:52.499Z - success: preferences loaded
-2020-02-29T02:46:52.500Z - success: project-importer loaded
-2020-02-29T02:46:52.501Z - success: project-settings loaded
-2020-02-29T02:46:52.515Z - success: qtt-runtime loaded
-2020-02-29T02:46:52.517Z - success: scene loaded
-2020-02-29T02:46:52.518Z - success: simulator-debugger loaded
-2020-02-29T02:46:52.518Z - success: sprite-editor loaded
-2020-02-29T02:46:52.520Z - success: store loaded
-2020-02-29T02:46:52.522Z - success: timeline loaded
-2020-02-29T02:46:52.525Z - success: vivo-runtime loaded
-2020-02-29T02:46:52.527Z - success: wechatgame-opendata loaded
-2020-02-29T02:46:52.530Z - success: wechatgame loaded
-2020-02-29T02:46:52.533Z - success: xiaomi-runtime loaded
-2020-02-29T02:46:53.920Z - normal: Initializing Cocos2d
-2020-02-29T02:46:54.296Z - normal: Initializing engine extends
-2020-02-29T02:46:58.664Z - info: Cocos Service load base data!
-2020-02-29T02:46:59.726Z - normal: Loading packages
-2020-02-29T02:46:59.730Z - normal: Watching packages
-2020-02-29T02:47:01.706Z - normal: Run Application
-2020-02-29T03:07:52.655Z - error: Can't init canvas 'Canvas' because it conflicts with the existing 'Canvas', the scene should only have one active canvas at the same time
-    at Object.cc.errorID (C:\Program Files (x86)\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\CCDebug.js:257:6)
-    at cc_Canvas.__preload (C:\Program Files (x86)\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\components\CCCanvas.js:161:17)
-    at eval (eval at createInvokeImpl (C:\Program Files (x86)\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\component-scheduler.js:236:53), <anonymous>:3:65)
-    at CCClass._invoke (C:\Program Files (x86)\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\component-scheduler.js:242:7)
-    at CCClass.invoke (C:\Program Files (x86)\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\node-activator.js:83:10)
-    at CCClass.activateNode (C:\Program Files (x86)\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\node-activator.js:267:20)
-    at cc_Node._onHierarchyChanged (C:\Program Files (x86)\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\utils\base-node.js:1230:34)
-    at cc_Node._onHierarchyChanged (C:\Program Files (x86)\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\CCNode.js:1814:10)
-    at cc_Node.setParent (C:\Program Files (x86)\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\utils\base-node.js:436:12)
-2020-02-29T03:08:17.814Z - failed: [db-task][refresh] Failed to refresh path: C:\Users\luopp\Documents\CODINGproject\CocosProject\FocusHarvest\Main.fire
+2020-03-07T04:24:24.694Z - normal: Load ~/.CocosCreator/settings.json
+2020-03-07T04:24:24.751Z - normal: Initializing Asset Database
+2020-03-07T04:24:24.760Z - normal: checking language setting...
+2020-03-07T04:24:24.760Z - normal: Language: en
+2020-03-07T04:24:26.107Z - success: preview server running at http://localhost:7456
+2020-03-07T04:24:26.112Z - success: protocol editor-framework registered
+2020-03-07T04:24:26.112Z - success: protocol app registered
+2020-03-07T04:24:26.112Z - success: protocol theme registered
+2020-03-07T04:24:26.112Z - success: protocol packages registered
+2020-03-07T04:24:26.113Z - success: protocol uuid registerred
+2020-03-07T04:24:26.113Z - success: protocol db registerred
+2020-03-07T04:24:26.113Z - success: protocol thumbnail registerred
+2020-03-07T04:24:26.113Z - success: protocol unpack registerred
+2020-03-07T04:24:26.113Z - success: protocol disable-commonjs registerred
+2020-03-07T04:24:28.273Z - normal: connected!
+2020-03-07T04:24:28.273Z - normal: Check project C:\Users\luopp\Documents\CODINGproject\CocosProject\FocusHarvest
+2020-03-07T04:24:28.275Z - normal: Initializing project C:\Users\luopp\Documents\CODINGproject\CocosProject\FocusHarvest
+2020-03-07T04:24:28.298Z - success: adapters loaded
+2020-03-07T04:24:28.309Z - success: asset-db-debugger loaded
+2020-03-07T04:24:28.387Z - success: fb-audience-network loaded
+2020-03-07T04:24:28.439Z - success: fb-live-stream loaded
+2020-03-07T04:24:28.461Z - success: google-play-instant loaded
+2020-03-07T04:24:28.465Z - success: huawei-adapter loaded
+2020-03-07T04:24:28.470Z - success: jkw-adapter loaded
+2020-03-07T04:24:28.474Z - success: jsb-adapter loaded
+2020-03-07T04:24:28.478Z - success: oppo-adapter loaded
+2020-03-07T04:24:28.491Z - success: package-manager loaded
+2020-03-07T04:24:28.496Z - success: qtt-adapter loaded
+2020-03-07T04:24:28.511Z - success: runtime-dev-tools loaded
+2020-03-07T04:24:28.528Z - success: sdkbox loaded
+2020-03-07T04:24:28.538Z - success: ui-kit-preview-extra loaded
+2020-03-07T04:24:28.549Z - success: ui-kit-preview loaded
+2020-03-07T04:24:28.553Z - success: vivo-adapter loaded
+2020-03-07T04:24:28.820Z - success: alipay-minigame loaded
+2020-03-07T04:24:28.880Z - success: assets loaded
+2020-03-07T04:24:28.883Z - success: baidugame-opendata loaded
+2020-03-07T04:24:28.884Z - success: baidugame loaded
+2020-03-07T04:24:28.887Z - success: builder loaded
+2020-03-07T04:24:29.047Z - success: cocos-services loaded
+2020-03-07T04:24:29.050Z - success: console loaded
+2020-03-07T04:24:29.052Z - success: curve-editor loaded
+2020-03-07T04:24:29.063Z - success: fb-instant-games loaded
+2020-03-07T04:24:29.065Z - success: game-window loaded
+2020-03-07T04:24:29.065Z - success: google-instant-games loaded
+2020-03-07T04:24:29.068Z - success: hierarchy loaded
+2020-03-07T04:24:29.070Z - success: huawei-runtime loaded
+2020-03-07T04:24:29.072Z - success: inspector loaded
+2020-03-07T04:24:29.139Z - success: cpk-publish loaded
+2020-03-07T04:24:29.139Z - success: keystore loaded
+2020-03-07T04:24:29.147Z - success: node-library loaded
+2020-03-07T04:24:29.147Z - success: open-recent-items loaded
+2020-03-07T04:24:29.150Z - success: oppo-runtime loaded
+2020-03-07T04:24:29.151Z - success: package-asset loaded
+2020-03-07T04:24:29.152Z - success: preferences loaded
+2020-03-07T04:24:29.153Z - success: project-importer loaded
+2020-03-07T04:24:29.154Z - success: project-settings loaded
+2020-03-07T04:24:29.167Z - success: qtt-runtime loaded
+2020-03-07T04:24:29.169Z - success: scene loaded
+2020-03-07T04:24:29.170Z - success: simulator-debugger loaded
+2020-03-07T04:24:29.170Z - success: sprite-editor loaded
+2020-03-07T04:24:29.172Z - success: store loaded
+2020-03-07T04:24:29.174Z - success: timeline loaded
+2020-03-07T04:24:29.178Z - success: vivo-runtime loaded
+2020-03-07T04:24:29.180Z - success: wechatgame-opendata loaded
+2020-03-07T04:24:29.183Z - success: wechatgame loaded
+2020-03-07T04:24:29.186Z - success: xiaomi-runtime loaded
+2020-03-07T04:24:31.419Z - normal: Initializing Cocos2d
+2020-03-07T04:24:33.334Z - normal: Initializing engine extends
+2020-03-07T04:24:34.967Z - normal: Loading packages
+2020-03-07T04:24:34.971Z - normal: Watching packages
+2020-03-07T04:24:36.779Z - normal: Run Application
+2020-03-07T04:24:42.717Z - info: Cocos Service load base data!
+2020-03-07T06:03:50.759Z - warn: [db-task][import] uuid collision, the uuid(58e18c09-901d-447c-b497-7ebb0387e035) for C:\Users\luopp\Documents\CODINGproject\CocosProject\FocusHarvest\assets\textures is already used. A new uuid(3bb724ee-0897-4ced-82e5-88eb91ebe065) will be assigned.
+2020-03-07T06:25:41.628Z - info: shutdown preview server

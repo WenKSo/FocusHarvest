@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_oceantriton",
+    "texture": "90332344-6f3c-4fe8-9d56-50ea7cf879ce",
+    "atlas": "",
+    "rect": [
+      32,
+      18,
+      89,
+      121
+    ],
+    "offset": [
+      1.5,
+      -3.5
+    ],
+    "originalSize": [
+      150,
+      150
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

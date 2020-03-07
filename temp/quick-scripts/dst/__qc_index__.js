@@ -9,7 +9,10 @@
                         return __quick_compile_project__.require(request, __filename);
                     };
                     function __define (exports, require, module) {
-                        if (!nodeEnv) {__quick_compile_project__.registerModule(__filename, module);}
+                        if (!nodeEnv) {__quick_compile_project__.registerModule(__filename, module);}require('./assets/Scripts/PanelTransition');
+require('./assets/Scripts/ButtonScaler');
+require('./assets/Scripts/BackPackUI');
+
                     }
                     if (nodeEnv) {
                         __define(__module.exports, __require, __module);

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_sninetales",
+    "texture": "f8dbb1b3-bed5-4acb-8307-fb94ce08d0dd",
+    "atlas": "",
+    "rect": [
+      21,
+      16,
+      100,
+      114
+    ],
+    "offset": [
+      -4,
+      2
+    ],
+    "originalSize": [
+      150,
+      150
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

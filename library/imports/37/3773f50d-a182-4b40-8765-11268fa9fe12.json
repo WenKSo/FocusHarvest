@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_schterminator",
+    "texture": "946a7e47-1937-4e6f-a0e5-8f3d743327ac",
+    "atlas": "",
+    "rect": [
+      37,
+      18,
+      86,
+      97
+    ],
+    "offset": [
+      5,
+      8.5
+    ],
+    "originalSize": [
+      150,
+      150
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
